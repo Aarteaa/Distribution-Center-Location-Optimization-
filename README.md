@@ -4,8 +4,7 @@
 Project Overview
 
 This project demonstrates how Linear Programming (LP) can be applied to real-world supply chain planning problems.
-Inspired by feed optimization models, it extends the concept to multi-warehouse and multi-customer logistics optimization, which is highly relevant to industries served by OMP (chemicals, life sciences, consumer goods, etc.).
-
+Inspired by feed optimization models, it extends the concept to multi-warehouse and multi-customer logistics optimization
 The goal:
 Minimize transportation, inventory, and unmet demand costs.
 Ensure optimal allocation of resources from warehouses to customers.
